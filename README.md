@@ -5,7 +5,7 @@ Group Members:
 - Member 3
 - Member 4
 
-Welcome to the COMP4200 Group 3 SmartPocketPal App developed by Mustafa, ... (Will Update shortly)
+Welcome to the COMP4200 Group 3 PocketPal App developed by Mustafa, ... (Will Update shortly)
 
 Here in this project, our group will be utilizing JAVA as the main programming language that uses core content from our lectures.
 
